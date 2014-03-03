@@ -1,2 +1,2 @@
 function one(){}
-function three(){}
+function two(){}
